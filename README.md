@@ -54,6 +54,10 @@ To set up the project, follow these steps:
 
 1. **Set up API Key(s):**
    For this project, I am using LLama 3.3 70B hosted on Fireworks API as its JSON Mode supports passing a pydantic object. So, please set the API key as the `FIREWORKS_API_KEY` environment variable
+   ** Possibility to extend this to other LLMS
+   - Gemini Pro
+   - OpenAI o1
+   - Other LLMs
 
 2. **Run the application:**
    ```bash
