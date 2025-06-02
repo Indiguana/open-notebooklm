@@ -7,7 +7,7 @@ import os
 from pathlib import Path
 
 # Key constants
-APP_TITLE = "Open NotebookLM 🎙️"
+APP_TITLE = "Source Pulse PDF to Podcast"
 CHARACTER_LIMIT = 100_000
 
 # Gradio-related constants
